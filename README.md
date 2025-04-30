@@ -1,1 +1,1 @@
-# Virtual-Study-Assistant
+You specify the time you should allocate to learning the subjects and how much of that time you have really allocated, you find out how much of that time you should allocate taking into account the 15-minute breaks and through api huggingface what your motivation for learning should be.
